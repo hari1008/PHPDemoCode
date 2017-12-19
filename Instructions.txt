@@ -1,0 +1,9 @@
+How to install
+
+1) Unzip YiiRestfulAPI.zip in your apache folder (in case of xampp xampp/htdocs)
+
+2) Make a DB named 'testdrive' and import YiiRestfulAPI/database/yii_api.sql into it.
+
+3) Use Postman collection https://www.getpostman.com/collections/a6dd8cb79fb8ed161c17 to access API end points
+
+4) 3 endpoints exposed create_user, get_user, user_login all are implemented in Postman collection.
